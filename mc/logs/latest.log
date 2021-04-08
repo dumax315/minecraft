@@ -1,0 +1,74 @@
+[01:13:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:13:34] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:13:35] [Worker-Main-1/INFO]: Loaded 7 recipes
+[01:13:39] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:13:39] [Server thread/INFO]: Loading properties
+[01:13:39] [Server thread/INFO]: This server is running Paper version git-Paper-582 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[01:13:39] [Server thread/INFO]: Debug logging is disabled
+[01:13:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:13:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:13:39] [Server thread/INFO]: Default game type: SURVIVAL
+[01:13:39] [Server thread/INFO]: Generating keypair
+[01:13:39] [Server thread/INFO]: Starting Minecraft server on *:1025
+[01:13:40] [Server thread/INFO]: Using epoll channel type
+[01:13:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:13:40] [Server thread/INFO]: Preparing level "world"
+[01:13:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:13:41] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[01:13:42] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:42] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:42] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:42] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:42] [Server thread/INFO]: Time elapsed: 1940 ms
+[01:13:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:13:43] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[01:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:43] [Server thread/INFO]: Preparing spawn area: 21%
+[01:13:45] [Server thread/INFO]: Preparing spawn area: 28%
+[01:13:45] [Server thread/INFO]: Preparing spawn area: 28%
+[01:13:45] [Server thread/INFO]: Time elapsed: 2476 ms
+[01:13:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:13:45] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[01:13:45] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:45] [Server thread/INFO]: Preparing spawn area: 34%
+[01:13:46] [Server thread/INFO]: Preparing spawn area: 77%
+[01:13:46] [Server thread/INFO]: Time elapsed: 1078 ms
+[01:13:46] [Server thread/INFO]: Starting remote control listener
+[01:13:46] [Server thread/INFO]: Thread RCON Listener started
+[01:13:46] [Server thread/INFO]: RCON running on 0.0.0.0:1026
+[01:13:46] [Server thread/INFO]: Running delayed init tasks
+[01:13:46] [Server thread/INFO]: Done (7.474s)! For help, type "help"
+[01:13:46] [Server thread/INFO]: Timings Reset
+[01:17:05] [User Authenticator #1/INFO]: UUID of player Wiggler2004 is 61a2e9be-3439-41cf-b54e-c1f423083a21
+[01:17:05] [Server thread/INFO]: Wiggler2004 joined the game
+[01:17:05] [Server thread/INFO]: Wiggler2004[/127.0.0.1:34430] logged in with entity id 190 at ([world]-438.6842023971806, 97.0, 451.35132618427645)
+[01:20:14] [Server thread/INFO]: Wiggler2004 fell from a high place
+[01:20:41] [User Authenticator #2/INFO]: UUID of player hh9 is 77c22489-19a1-4a72-97a3-a4bf2b33bf8f
+[01:20:41] [Server thread/INFO]: hh9 joined the game
+[01:20:41] [Server thread/INFO]: hh9[/127.0.0.1:35598] logged in with entity id 1127 at ([world]-506.23451281459256, 102.0, 408.64096696000007)
+[01:24:03] [Server thread/INFO]: hh9 was slain by Wiggler2004
+[01:26:05] [User Authenticator #3/INFO]: UUID of player kneeenuh is b594e4e6-27e1-49fb-a928-9491306ce0f3
+[01:26:05] [Server thread/INFO]: kneeenuh joined the game
+[01:26:05] [Server thread/INFO]: kneeenuh[/127.0.0.1:37152] logged in with entity id 3634 at ([world]-512.442050090234, 90.875, 588.5166673864496)
+[01:28:03] [Server thread/INFO]: Stopping server
+[01:28:03] [Server thread/INFO]: Saving players
+[01:28:03] [Server thread/INFO]: Wiggler2004 lost connection: Server closed
+[01:28:03] [Server thread/INFO]: Wiggler2004 left the game
+[01:28:03] [Server thread/INFO]: hh9 lost connection: Server closed
+[01:28:03] [Server thread/INFO]: hh9 left the game
+[01:28:03] [Server thread/INFO]: kneeenuh lost connection: Server closed
+[01:28:03] [Server thread/INFO]: kneeenuh left the game
+[01:28:03] [Server thread/INFO]: Saving worlds
+[01:28:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:28:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:04] [Server thread/INFO]: Flushing Chunk IO
+[01:28:04] [Server thread/INFO]: Closing Thread Pool
+[01:28:04] [Server thread/INFO]: Closing Server

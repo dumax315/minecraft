@@ -1,0 +1,15 @@
+t=2021-04-08T01:13:23+0000 lvl=info msg="no configuration paths supplied"
+t=2021-04-08T01:13:23+0000 lvl=info msg="using configuration at default config path" path=/home/runner/.ngrok2/ngrok.yml
+t=2021-04-08T01:13:23+0000 lvl=info msg="open config file" path=/home/runner/.ngrok2/ngrok.yml err=nil
+t=2021-04-08T01:13:23+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2021-04-08T01:13:23+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2021-04-08T01:13:23+0000 lvl=info msg="client session established" obj=csess id=08b3f07d3d52
+t=2021-04-08T01:13:23+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:1025 url=tcp://0.tcp.ngrok.io:14580
+t=2021-04-08T01:13:23+0000 lvl=info msg=start pg=/api/tunnels id=d3355bb09a5a545c
+t=2021-04-08T01:13:23+0000 lvl=info msg=end pg=/api/tunnels id=d3355bb09a5a545c status=200 dur=490.188µs
+t=2021-04-08T01:17:04+0000 lvl=info msg="join connections" obj=join id=5a5a735c19a0 l=127.0.0.1:1025 r=97.126.135.78:51520
+t=2021-04-08T01:20:40+0000 lvl=info msg="join connections" obj=join id=086c047150d9 l=127.0.0.1:1025 r=67.185.20.6:53828
+t=2021-04-08T01:20:41+0000 lvl=info msg="join connections" obj=join id=9a694f532b08 l=127.0.0.1:1025 r=67.185.20.6:53830
+t=2021-04-08T01:26:03+0000 lvl=info msg="join connections" obj=join id=a60a6d39ac30 l=127.0.0.1:1025 r=67.168.61.1:64869
+t=2021-04-08T01:26:04+0000 lvl=info msg="join connections" obj=join id=826206349ba9 l=127.0.0.1:1025 r=67.168.61.1:64870
+t=2021-04-08T01:28:03+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
